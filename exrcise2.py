@@ -15,6 +15,7 @@ def survey():
                 'What is your favorite sport?',
                 'What is your favorite travel destination?']
     print(random.choice(question))
+    
 
     responce_2 = input("Enter your responce: ")
 
